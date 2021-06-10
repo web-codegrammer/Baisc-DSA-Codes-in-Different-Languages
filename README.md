@@ -36,6 +36,6 @@ Leave a ⭐ if you find it useful.
 
 ## Project is Licensed Under the
 
-[MIT](https://github.com/web-codegrammer/DevConnector-A-Social-Network-for-Developers/blob/master/LICENSE)
+[MIT](https://github.com/web-codegrammer/Baisc-DSA-Codes-in-Different-Languages/blob/main/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2021-2022 [web-codegrammer](https://github.com/web-codegrammer). All Rights Reserved | 2021
