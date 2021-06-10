@@ -3,7 +3,7 @@
 
 # **Overview**
 
-This is a beginner-friendly project that aims to create a problem-set for various Data Structures and Algorithms. Being a programmer, practising on as many problems as possible is a must to hone your DSA knowledge. This is a try to create a repo that contains some good (basic - advanced level) questions with most efficient approaches. I aim to achieve this collaboratively, so feel free to contribute 😊
+This is a beginner-amiable project that aims to create a problem-set for various Data Structures and Algorithms. Being a programmer, practising on as many problems as possible is a must to hone your DSA knowledge. This is a try to create a repo that contains some good (basic - advanced level) questions with most efficient approaches. I aim to achieve this collaboratively, so feel free to contribute 😊
 
 # **Guidelines to be followed:**
 
@@ -12,7 +12,7 @@ Whenever you solve any basic -> advance level problem, or a commonly asked one i
 **Make sure** your file name is the question title(not too long) in **CamelCase** with **single space between words**.
 
 Each contributed file must contain the 1️⃣: **problem statement**, 2️⃣**brief explainantion of approach** and 3️⃣**most efficient (time and space) solution** in said order only.
-Check https://github.com/riddhi-jain/DSAmap/blob/main/Arrays/Count%20Iversions.py as sample.
+Check https://github.com/web-codegrammer/Baisc-DSA-Codes-in-Different-Languages/blob/main/Arrays/Count%20Iversions.py as sample.
 Your solution can be in any programming language 😉
 
 **Make sure** you generate a PR for the same data structure that relates to your problem most specifically.
@@ -34,3 +34,9 @@ Step-5 - Congratualtions 🎉 (thanks for your contribution 👍😃 )
 
 Looking forward to your PR 🙃
 Leave a ⭐ if you find it useful.
+
+## Project is Licensed Under the
+
+[MIT](https://github.com/web-codegrammer/DevConnector-A-Social-Network-for-Developers/blob/master/LICENSE)
+
+Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2021-2022 [web-codegrammer](https://github.com/web-codegrammer). All Rights Reserved | 2021
