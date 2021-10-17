@@ -115,7 +115,7 @@ public class Dijkstra {
         GraphNode nodeA = new GraphNode("A");
         GraphNode nodeB = new GraphNode("B");
         GraphNode nodeC = new GraphNode("C");
-        GraphNode nodeD = new GraphNode("D");
+        GraphNode nodeD = new GraphNode("D"); 
         GraphNode nodeE = new GraphNode("E");
         GraphNode nodeF = new GraphNode("F");
         
